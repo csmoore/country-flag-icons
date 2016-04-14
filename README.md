@@ -2,16 +2,16 @@
 
 Icons for country flags provided in various formats.
 
-![Image of Military Features Data](Screenshot.jpg)
+![Image of Country Flag Icons](Screenshot.jpg)
 
 ### Features
 
-Country flags as:
+Country flag icons provided in formats:
 
 * SVG
 * PNG
 * EMF
-* ArcGIS Style (10.X, Pro)
+* ArcGIS Style (10.X, Pro 1.2)
 
 A table to convert between the various Country Code/Name formats (ISO 3166-2, STANAG 1059, GENC): 
 [CountryCodes-ISO-STANAG-GENC.csv](./CountryCodes-ISO-STANAG-GENC.csv)
@@ -19,8 +19,10 @@ A table to convert between the various Country Code/Name formats (ISO 3166-2, ST
 ### Credits / Attribution 
 
 SVG Files were obtained from: https://github.com/stevenrskelton/flag-icon
+
 Attributed to: https://github.com/koppi 
-And are provided under the MIT License: https://opensource.org/licenses/MIT 
+
+These are provided under the MIT License: https://opensource.org/licenses/MIT 
 
 ### License
 
