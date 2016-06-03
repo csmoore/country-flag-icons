@@ -238,14 +238,14 @@
 |South Africa |ZA|South Africa|SF|ZAF|South Africa|ZAF|![](country-flags-4x3-png/za.png)|
 |Zambia|ZM|Zambia|ZA|ZMB|Zambia|ZMB|![](country-flags-4x3-png/zm.png)|
 |Zimbabwe|ZW|Zimbabwe|ZI|ZWE|Zimbabwe|ZWE|![](country-flags-4x3-png/zw.png)|
-|||Ashmore and Cartier Islands|AT|ACI|||![](country-flags-4x3-png/at.png)|
-|||Coral Sea Islands|CR|CSI|||![](country-flags-4x3-png/cr.png)|
-|||Europe|EE|EEE|||![](country-flags-4x3-png/ee.png)|
-|||Howland Island|HQ|HQI|||![](country-flags-4x3-png/hq.png)|
-|||Jan Mayen Island|JN|JNM|||![](country-flags-4x3-png/jn.png)|
-|||Johnston Atoll|JQ|JQA|||![](country-flags-4x3-png/jq.png)|
-|||Netherlands Antilles|NA|ANT|||![](country-flags-4x3-png/na.png)|
-|||NATO countries|NT|NTT|||![](country-flags-4x3-png/nt.png)|
-|||Paracel Islands|PF|PFI|||![](country-flags-4x3-png/pf.png)|
-|||Saint Kitts and Nevis|SC|KNA|Saint Kitts and Nevis|KNA|![](country-flags-4x3-png/sc.png)|
-|||Oceania|UU|UUU|||![](country-flags-4x3-png/uu.png)|
+|||Ashmore and Cartier Islands|AT|ACI|||
+|||Coral Sea Islands|CR|CSI|||
+|||Europe|EE|EEE|||
+|||Howland Island|HQ|HQI|||
+|||Jan Mayen Island|JN|JNM|||
+|||Johnston Atoll|JQ|JQA|||
+|||Netherlands Antilles|NA|ANT|||
+|||NATO countries|NT|NTT|||
+|||Paracel Islands|PF|PFI|||
+|||Saint Kitts and Nevis|SC|KNA|Saint Kitts and Nevis|KNA|
+|||Oceania|UU|UUU|||
