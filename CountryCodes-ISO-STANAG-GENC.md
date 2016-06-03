@@ -84,7 +84,7 @@
 |Guadeloupe|GP|Guadeloupe|GP|GLP|Guadeloupe|GLP|![](country-flags-4x3-png/gp.png)|
 |Equatorial Guinea|GQ|Equatorial Guinea|EK|GNQ|Equatorial Guinea|GNQ|![](country-flags-4x3-png/gq.png)|
 |Greece|GR|Greece|GR|GRC|Greece|GRC|![](country-flags-4x3-png/gr.png)|
-|South Georgia and the South Sandwich Islands|GS|South Georgia and South Sandwich Islands|SX|SGS|South Georgia and South Sandwich Islands|SGS|![](country-flags-4x3-png/ad.png)|![](country-flags-4x3-png/gs.png)|
+|South Georgia and the South Sandwich Islands|GS|South Georgia and South Sandwich Islands|SX|SGS|South Georgia and South Sandwich Islands|SGS|![](country-flags-4x3-png/gs.png)|![](country-flags-4x3-png/gs.png)|
 |Guatemala|GT|Guatemala|GT|GTM|Guatemala|GTM|![](country-flags-4x3-png/gt.png)|
 |Guam|GU|Guam|GQ|GUM|Guam|GUM|![](country-flags-4x3-png/gu.png)|
 |Guinea-Bissau|GW|Guinea-Bissau|PU|GNB|Guinea-Bissau|GNB|![](country-flags-4x3-png/gw.png)|
@@ -178,7 +178,7 @@
 |Palau|PW|Palau|PS|PLW|Palau|PLW|![](country-flags-4x3-png/pw.png)|
 |Paraguay|PY|Paraguay|PA|PRY|Paraguay|PRY|![](country-flags-4x3-png/py.png)|
 |Qatar|QA|Qatar|QA|QAT|Qatar|QAT|![](country-flags-4x3-png/qa.png)|
-|RÈunion     |RE|RÈunion|RE|REU|Reunion|REU|![](country-flags-4x3-png/re.png)|
+|Reunion     |RE|Reunion|RE|REU|Reunion|REU|![](country-flags-4x3-png/re.png)|
 |Romania|RO|Romania|RO|ROU|Romania|ROU|![](country-flags-4x3-png/ro.png)|
 |Serbia|RS|Serbia|RS|SRB|Serbia|SRB|![](country-flags-4x3-png/rs.png)|
 |Russian Federation|RU|Russia|RU|RUS|Russia|RUS|![](country-flags-4x3-png/ru.png)|
