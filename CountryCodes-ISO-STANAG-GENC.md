@@ -40,7 +40,7 @@
 |Central African Republic|CF|Central African Republic|CT|CAF|Central African Republic|CAF|![](country-flags-4x3-png/cf.png)|
 |Congo|CG|Republic of the Congo|CF|COG|Congo (Brazzaville)|COG|![](country-flags-4x3-png/cg.png)|
 |Switzerland|CH|Switzerland|SZ|CHE|Switzerland|CHE|![](country-flags-4x3-png/ch.png)|
-|CÙte d'Ivoire|CI|CÙte d'Ivoire|IV|CIV|CÙte d'Ivoire|CIV|![](country-flags-4x3-png/ci.png)|
+|Cote d'Ivoire|CI|Cote d'Ivoire|IV|CIV|Cote d'Ivoire|CIV|![](country-flags-4x3-png/ci.png)|
 |Cook Islands|CK|Cook Islands|CW|COK|Cook Islands|COK|![](country-flags-4x3-png/ck.png)|
 |Chile|CL|Chile|CI|CHL|Chile|CHL|![](country-flags-4x3-png/cl.png)|
 |Cameroon|CM|Cameroun|CM|CMR|Cameroon|CMR|![](country-flags-4x3-png/cm.png)|
