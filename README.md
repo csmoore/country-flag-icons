@@ -13,8 +13,9 @@ Country flag icons provided in formats:
 * EMF
 * ArcGIS Style (10.X, Pro 1.2)
 
-A table to convert between the various Country Code/Name formats (ISO 3166-2, STANAG 1059, GENC): 
-[CountryCodes-ISO-STANAG-GENC.csv](./CountryCodes-ISO-STANAG-GENC.csv)
+A table to convert between the various Country Code/Name formats (ISO 3166-2, STANAG 1059, GENC) is available as: 
+* CSV format: [CountryCodes-ISO-STANAG-GENC.csv](./CountryCodes-ISO-STANAG-GENC.csv)
+* MD format: [CountryCodes-ISO-STANAG-GENC.md](./CountryCodes-ISO-STANAG-GENC.md)
 
 ### Credits / Attribution 
 
