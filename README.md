@@ -8,10 +8,10 @@ Icons for country flags provided in various formats.
 
 Country flag icons provided in formats:
 
-* SVG
-* PNG
-* EMF
-* ArcGIS Style (10.X, Pro 1.2)
+* [SVG](country-flags-4x3-svg)
+* [PNG](country-flags-4x3-png)
+* [EMF](country-flags-4x3-emf)
+* [ArcGIS Style (10.X, Pro 1.2)](Esri-ArcGIS-Styles)
 
 A table to convert between the various Country Code/Name formats (ISO 3166-2, STANAG 1059, GENC) is available as: 
 * CSV format: [CountryCodes-ISO-STANAG-GENC.csv](./CountryCodes-ISO-STANAG-GENC.csv)
